@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-25T08:12:28.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="aVqOA0FDcAtljighJXQm" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-25T08:15:39.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="s3H2J734R8K7wmrI4Key" version="14.6.6" type="github">
   <diagram id="V3EbOqdWZuiMHqJ26SXN" name="第 1 页">
     <mxGraphModel dx="1426" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="h345J-r8i5o6uSTDHPps-25" value="用户请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="h345J-r8i5o6uSTDHPps-27" value="使用 Flink CDC 进行数据同步&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
